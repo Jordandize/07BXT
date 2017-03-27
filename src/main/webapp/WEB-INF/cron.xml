@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+		<url>/daily_report</url>
+		<description>Mailouta dailyreport</description>
+		<schedule>everyday 00:00</schedule>
+	</cron>
+	<cron>
+		<url>/weekly_report</url>
+		<description>Mailouta weeklyreport</description>
+		<schedule>everyday 12:00</schedule>
+	</cron>
+</cronentries>
